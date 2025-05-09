@@ -37,7 +37,7 @@
     * Bootcamp (IT Academy) Full-Stack Developer Training (Jul 2024 - Dec 2024)
     * Java, SpringBoot3, SpringFramework, JSP/Servlet, Oracle
 
-* **📖 멋쟁이사자처럼(대학) PE파트 11기 수료**
+* **📖 멋쟁이사자처럼(대학) FE파트 11기 수료**
 
     * LikeLion_University(IT Club) FE Part 11th Member (Jan 2023 - Dec 2023)
     * JavaScript, jQuery, HTML, css
