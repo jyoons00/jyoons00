@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Profile&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Profile&fontAlign=70&fontColor=5D5C58)
 
 ## Tech Stack
 <a><img src="https://img.shields.io/badge/PowerScript-4292D8?style=for-the-badge&logo=&logoColor=white/"></a>
