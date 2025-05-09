@@ -40,4 +40,4 @@
 * **📖 멋쟁이사자처럼(대학) FE파트 11기 수료**
 
     * LikeLion_University(IT Club) FE Part 11th Member (Jan 2023 - Dec 2023)
-    * JavaScript, jQuery, HTML, css
+    * JavaScript, jQuery, HTML, CSS
