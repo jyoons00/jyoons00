@@ -18,7 +18,7 @@
 
 ## 📫 Contact
 
-<a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/jyjeon000@gmail.com-79E7ED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/jyjeon000@gmail.com-8F5F8A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 ## ✨ Profile
