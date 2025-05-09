@@ -39,5 +39,5 @@
 
 * **📖 멋쟁이사자처럼(대학) PE파트 11기 수료**
 
-    * LikeLion_University(IT Club) PE Part 11th Member (Jan 2023 - Dec 2023)
+    * LikeLion_University(IT Club) FE Part 11th Member (Jan 2023 - Dec 2023)
     * JavaScript, jQuery, HTML, css
