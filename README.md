@@ -14,11 +14,11 @@
 
 <a><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white/"></a>
 <a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white/"></a>
-<a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/MySQL-C77CA7?style=for-the-badge&logo=mysql&logoColor=white/"></a>
 
 ## 📫 Contact
 
-<a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/jyjeon000@gmail.com-C77CA7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/jyjeon000@gmail.com-00000F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 ## ✨ Profile
