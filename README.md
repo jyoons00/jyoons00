@@ -12,8 +12,8 @@
 
 ## DBMS
 
-<a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white/"></a>
-<a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-00000F?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/MySQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white/"></a>
 <a><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white/"></a>
 
 ## Studing
