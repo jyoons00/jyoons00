@@ -16,6 +16,11 @@
 <a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white/"></a>
 <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/"></a>
 
+## 📫 Contact
+
+<a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/jyjeon000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
 ## ✨ Profile
 * **💻 Mid-sized company - SW Developer**
   
